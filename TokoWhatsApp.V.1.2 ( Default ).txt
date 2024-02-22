@@ -1,3 +1,11 @@
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xa4D0868aC9188d3DC927E36EBA7c63B0aaAaAa42'
+quorum: 1
+
+
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE html>
 <html expr:dir='data:blog.languageDirection' lang='id' typeof='schema:WebPage' xml:lang='id' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'> 
